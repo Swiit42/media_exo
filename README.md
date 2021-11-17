@@ -1,1 +1,1 @@
-Exercice adaptation de médiaqueries 
+Exercice adaptation de media queries 
